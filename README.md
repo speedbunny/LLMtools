@@ -1,7 +1,7 @@
 /Harmony Converters
 
 1. /openwebui-to-harmony.py
-Convert **Open WebUI** chat export JSON files into **Harmony Response Format** — with strict validation, recursive folder processing, a manifest CSV, optional sanitisation of Harmony markers inside message text, and reasoning-level overrides.
+Convert **Open WebUI** chat export JSON files into **OpenAI Harmony Response Format** — with strict validation, recursive folder processing, a manifest CSV, optional sanitisation of Harmony markers inside message text, and reasoning-level overrides.
 
 This is a **single-file**, edit-the-CONFIG-block script. No flags required.
 
